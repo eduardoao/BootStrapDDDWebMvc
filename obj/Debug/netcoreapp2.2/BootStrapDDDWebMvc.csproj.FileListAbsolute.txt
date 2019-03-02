@@ -1,4 +1,3 @@
-D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.csprojAssemblyReference.cache
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.csproj.CoreCompileInputs.cache
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.RazorAssemblyInfo.cache
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.RazorAssemblyInfo.cs
@@ -29,3 +28,8 @@ D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWe
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.pdb
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.csproj.CopyComplete
 D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Create.g.cshtml.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\BootStrapDDDWebMvc.csprojAssemblyReference.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.g.cshtml.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Details.g.cshtml.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Edit.g.cshtml.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Delete.g.cshtml.cs
